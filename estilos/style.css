@@ -19,3 +19,8 @@ footer {
     background-color: rgb(6, 133, 191);
     text-align: center;
 }
+.navegador {
+    display: flex;
+    flex: row;
+    gap: 10px
+}

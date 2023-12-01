@@ -1,0 +1,21 @@
+.caja-titulo {
+    text-align: center;
+    background-color: rgba(7, 174, 216, 0.963);
+}
+.caja-superior {
+    display: flex;
+    flex-direction: column;
+}
+.caja-superior div {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+.caja-parrafo {
+    padding: 0px 20px 0px 20px;
+    font-size: 20px;
+}
+footer {
+    background-color: rgb(6, 133, 191);
+    text-align: center;
+}
